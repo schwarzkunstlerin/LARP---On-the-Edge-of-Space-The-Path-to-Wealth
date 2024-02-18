@@ -1,0 +1,10 @@
+Tony Smithson - Gaia - ropa - 3000 - 100
+stefanski - rsr - 0 - 0 - 0
+Smith - SOR - Ropa - 100 - 100
+Wellingmoore - RSR - Ropa - 130 - 20
+Wellingmoore - GSC - Metale ciezkie - 160 - 320
+stefanski - gsc - pierwiastki - 200 - 40
+Smithson - GSC - Ropa - 50 - 400
+Wellingmoor - FFE - Metale - 60 - 80
+Wellingmoor - FFE - Metale ciezkie - 60 - 100
+Smithson - SOR - Ropa - 50000 - 29
